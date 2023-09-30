@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "@influxdata/influxdb3-client": "^0.2.0"
+  }
+}

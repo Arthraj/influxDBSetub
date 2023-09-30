@@ -1,0 +1,1 @@
+const INFLUXDB_TOKEN="GaHB3oyf-SOUr0G9xYDDcpo8cpfLT93biBxdxBPootTLyjVCbnuhTHZr4j3jcDvr_wJfNHXBZO83lxW-fCSEfw=="
